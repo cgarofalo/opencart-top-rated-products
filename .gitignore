@@ -18,3 +18,12 @@ vqmod/logs/*
 vqmod/vqcache/*
 vqmod/checked.cache
 vqmod/mods.cache
+
+# Other common ignore patterns
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.log
+*.bak
+*.tmp
