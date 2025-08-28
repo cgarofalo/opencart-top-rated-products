@@ -15,8 +15,8 @@ The following changes have been made:
 
 1) Download this repository and compress the `toprated` directory into a zip file. Name it `toprated.ocmod.zip`. Note: OpenCart 4.1 is picky about how the file is compressed. You may need to use [WinZip](https://www.winzip.com/) to compress it, if you get errors while trying to install it.
 2) In OpenCart 4.1 admin, go to Extensions >> Installer. Upload the `toprated.ocmod.zip` file.
-3) Go to Extenstions >> Extensions and filer for "Modules". Install the Top Rated module by clocking the [+] button.
-4) Add a "Top Rated" module. Fill out the settings. Set status to "true/on" and save it.
+3) Go to Extenstions >> Extensions and filter for "Modules". Install the "Top Rated" module by clocking the [+] button.
+4) Add a "Top Rated" module by clicking the "Edit" button (pencil icon). Fill out the settings. Set status to "true/on" and save it.
 5) Go to Design >> Layouts and add the module to a layout. Save the changes to the layout.
 6) Visit the frontend of your website where the module is installed. You should see a "Top Rated" section showcasing your site's highest-rated products, ordered by rating and then by title.
 
